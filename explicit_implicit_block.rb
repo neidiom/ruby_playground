@@ -20,6 +20,8 @@ end
 # if the object is something else, it calls to_proc on it, and then converts it to a block.
 
 
+# &block is an explicit (named) parameter
+
 # https://skorks.com/2013/04/ruby-ampersand-parameter-demystified/
 
 # The Implicit Block
